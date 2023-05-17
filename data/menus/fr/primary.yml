@@ -1,4 +1,8 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Questions fréquentes
+  target: "/questions-frequentes/"
+  kind: page
+  children: []
 
