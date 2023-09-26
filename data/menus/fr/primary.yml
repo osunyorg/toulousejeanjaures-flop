@@ -5,4 +5,8 @@ items:
   target: "/questions-frequentes/"
   kind: page
   children: []
+- title: Actualités
+  target: "/actualites/"
+  kind: page
+  children: []
 
