@@ -6,3 +6,4 @@ fr:
   languageCode: fr
   languageName: Français
   permalinks:
+    events: /agenda/:year-:month-:day-:slug/
