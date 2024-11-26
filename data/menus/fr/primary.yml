@@ -5,8 +5,10 @@ items:
   target: "/questions-frequentes/"
   kind: page
   children: []
+  file: content/fr/pages/questions-frequentes/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 
