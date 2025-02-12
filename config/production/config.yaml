@@ -2,6 +2,11 @@
 
 baseURL: https://toulousejeanjaures-flop.netlify.app
 
+## OSUNY
+osuny:
+  website:
+    id: 454802b2-27c8-439a-a4c9-f1b3f4b3396e
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
